@@ -1,0 +1,4 @@
+enum PlatformsEnum {
+  fcm,
+  hpk,
+}
